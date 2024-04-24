@@ -11,6 +11,8 @@ import com.facebook.react.defaults.DefaultReactHost.getDefaultReactHost
 import com.facebook.react.defaults.DefaultReactNativeHost
 import com.facebook.react.flipper.ReactNativeFlipper
 import com.facebook.soloader.SoLoader
+import com.facebook.react.shell.MainReactPackage;
+import com.github.reactnativecommunity.location.RNLocationPackage
 
 class MainApplication : Application(), ReactApplication {
 
@@ -41,5 +43,13 @@ class MainApplication : Application(), ReactApplication {
       load()
     }
     ReactNativeFlipper.initializeFlipper(this, reactNativeHost.reactInstanceManager)
+  }
+
+  @Override
+  protected fun getPackages(): List<ReactPackage> {
+      return listOf(
+          MainReactPackage(),
+          RNLocationPackage()
+      )
   }
 }
