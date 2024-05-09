@@ -1,4 +1,4 @@
-import React, {useContext, useEffect} from "react";
+import React, { useContext, useEffect } from "react";
 import {
   Linking,
   SafeAreaView,
@@ -6,9 +6,10 @@ import {
   StyleSheet,
   Text,
   TouchableHighlight,
-  View
+  View,
+  Image
 } from "react-native";
-import RNLocation from "react-native-location";
+// import RNLocation from "react-native-location";
 import moment from "moment";
 
 import { AppContext } from "../../providers/appProvider";
@@ -16,20 +17,13 @@ import { AppContext } from "../../providers/appProvider";
 const repoUrl = "https://github.com/timfpark/react-native-location";
 
 export default () => {
-    const {
-      locationList, updateLocationList,
-      location, setLocation,
-      startUpdatingLocation, stopUpdatingLocation, 
-    } = useContext(AppContext)
-
-    
-    
-
-
-
-
-
-  
+  const {
+    locationList, updateLocationList,
+    location, setLocation,
+    startUpdatingLocation, stopUpdatingLocation,
+    startBackgroundLocationTrack, stopBackgroundLocationTrack,
+    places,
+  } = useContext(AppContext)
 
   const openRepoUrl = () => {
     Linking.openURL(repoUrl).catch(err =>
@@ -37,113 +31,149 @@ export default () => {
     );
   };
   console.log('location', location, locationList)
-    return (
-      <ScrollView style={styles.container}>
-        <SafeAreaView style={styles.innerContainer}>
-          <View style={{ alignItems: "center", marginTop: 30 }}>
-            <Text style={styles.title}>react-native-location</Text>
-            <TouchableHighlight
-              onPress={openRepoUrl}
-              underlayColor="#CCC"
-              activeOpacity={0.8}
-            >
-              <Text style={styles.repoLink}>{repoUrl}</Text>
-            </TouchableHighlight>
-          </View>
+  return (
+    <ScrollView style={styles.container}>
+      <SafeAreaView style={styles.innerContainer}>
+        <View style={{ alignItems: "center", marginTop: 30 }}>
+          <Text style={styles.title}>react-native-location</Text>
+          <TouchableHighlight
+            onPress={openRepoUrl}
+            underlayColor="#CCC"
+            activeOpacity={0.8}
+          >
+            <Text style={styles.repoLink}>{repoUrl}</Text>
+          </TouchableHighlight>
+        </View>
 
-          <View style={styles.row}>
-            <TouchableHighlight
-              onPress={startUpdatingLocation}
-              style={[styles.button, { backgroundColor: "#126312" }]}
-            >
-              <Text style={styles.buttonText}>Start</Text>
-            </TouchableHighlight>
+        <View style={styles.row}>
+          <TouchableHighlight
+            onPress={startUpdatingLocation}
+            style={[styles.button, { backgroundColor: "#126312" }]}
+          >
+            <Text style={styles.buttonText}>Start FG</Text>
+          </TouchableHighlight>
 
-            <TouchableHighlight
-              onPress={stopUpdatingLocation}
-              style={[styles.button, { backgroundColor: "#881717" }]}
-            >
-              <Text style={styles.buttonText}>Stop</Text>
-            </TouchableHighlight>
-          </View>
+          <TouchableHighlight
+            onPress={stopUpdatingLocation}
+            style={[styles.button, { backgroundColor: "#881717" }]}
+          >
+            <Text style={styles.buttonText}>Stop FG</Text>
+          </TouchableHighlight>
+        </View>
 
-          {location && (
-            <React.Fragment>
+        <View style={styles.row}>
+          <TouchableHighlight
+            onPress={startBackgroundLocationTrack}
+            style={[styles.button, { backgroundColor: "#126312" }]}
+          >
+            <Text style={styles.buttonText}>Start BG</Text>
+          </TouchableHighlight>
+
+          <TouchableHighlight
+            onPress={stopBackgroundLocationTrack}
+            style={[styles.button, { backgroundColor: "#881717" }]}
+          >
+            <Text style={styles.buttonText}>Stop BG</Text>
+          </TouchableHighlight>
+        </View>
+
+
+        {location && (
+          <React.Fragment>
+            <View style={styles.row}>
+              <View style={[styles.detailBox, styles.third]}>
+                <Text style={styles.valueTitle}>Course</Text>
+                <Text style={[styles.detail, styles.largeDetail]}>
+                  {location.course}
+                </Text>
+              </View>
+
+              <View style={[styles.detailBox, styles.third]}>
+                <Text style={styles.valueTitle}>Speed</Text>
+                <Text style={[styles.detail, styles.largeDetail]}>
+                  {location.speed}
+                </Text>
+              </View>
+
+              <View style={[styles.detailBox, styles.third]}>
+                <Text style={styles.valueTitle}>Altitude</Text>
+                <Text style={[styles.detail, styles.largeDetail]}>
+                  {location.altitude}
+                </Text>
+              </View>
+            </View>
+
+            <View style={{ alignItems: "flex-start" }}>
               <View style={styles.row}>
-                <View style={[styles.detailBox, styles.third]}>
-                  <Text style={styles.valueTitle}>Course</Text>
-                  <Text style={[styles.detail, styles.largeDetail]}>
-                    {location.course}
-                  </Text>
+                <View style={[styles.detailBox, styles.half]}>
+                  <Text style={styles.valueTitle}>Latitude</Text>
+                  <Text style={styles.detail}>{location.latitude}</Text>
                 </View>
 
-                <View style={[styles.detailBox, styles.third]}>
-                  <Text style={styles.valueTitle}>Speed</Text>
-                  <Text style={[styles.detail, styles.largeDetail]}>
-                    {location.speed}
-                  </Text>
+                <View style={[styles.detailBox, styles.half]}>
+                  <Text style={styles.valueTitle}>Longitude</Text>
+                  <Text style={styles.detail}>{location.longitude}</Text>
+                </View>
+              </View>
+
+              <View style={styles.row}>
+                <View style={[styles.detailBox, styles.half]}>
+                  <Text style={styles.valueTitle}>Accuracy</Text>
+                  <Text style={styles.detail}>{location.accuracy}</Text>
                 </View>
 
-                <View style={[styles.detailBox, styles.third]}>
-                  <Text style={styles.valueTitle}>Altitude</Text>
-                  <Text style={[styles.detail, styles.largeDetail]}>
-                    {location.altitude}
+                <View style={[styles.detailBox, styles.half]}>
+                  <Text style={styles.valueTitle}>Altitude Accuracy</Text>
+                  <Text style={styles.detail}>
+                    {location.altitudeAccuracy}
                   </Text>
                 </View>
               </View>
 
-              <View style={{ alignItems: "flex-start" }}>
-                <View style={styles.row}>
-                  <View style={[styles.detailBox, styles.half]}>
-                    <Text style={styles.valueTitle}>Latitude</Text>
-                    <Text style={styles.detail}>{location.latitude}</Text>
-                  </View>
-
-                  <View style={[styles.detailBox, styles.half]}>
-                    <Text style={styles.valueTitle}>Longitude</Text>
-                    <Text style={styles.detail}>{location.longitude}</Text>
-                  </View>
+              <View style={styles.row}>
+                <View style={[styles.detailBox, styles.half]}>
+                  <Text style={styles.valueTitle}>Timestamp</Text>
+                  <Text style={styles.detail}>{location.timestamp}</Text>
                 </View>
 
-                <View style={styles.row}>
-                  <View style={[styles.detailBox, styles.half]}>
-                    <Text style={styles.valueTitle}>Accuracy</Text>
-                    <Text style={styles.detail}>{location.accuracy}</Text>
-                  </View>
-
-                  <View style={[styles.detailBox, styles.half]}>
-                    <Text style={styles.valueTitle}>Altitude Accuracy</Text>
-                    <Text style={styles.detail}>
-                      {location.altitudeAccuracy}
-                    </Text>
-                  </View>
-                </View>
-
-                <View style={styles.row}>
-                  <View style={[styles.detailBox, styles.half]}>
-                    <Text style={styles.valueTitle}>Timestamp</Text>
-                    <Text style={styles.detail}>{location.timestamp}</Text>
-                  </View>
-
-                  <View style={[styles.detailBox, styles.half]}>
-                    <Text style={styles.valueTitle}>Date / Time</Text>
-                    <Text style={styles.detail}>
-                      {moment(location.timestamp).format("MM-DD-YYYY h:mm:ss")}
-                    </Text>
-                  </View>
-                </View>
-
-                <View style={styles.row}>
-                  <View style={[styles.detailBox, styles.full]}>
-                    <Text style={styles.json}>{JSON.stringify(location)}</Text>
-                  </View>
+                <View style={[styles.detailBox, styles.half]}>
+                  <Text style={styles.valueTitle}>Date / Time</Text>
+                  <Text style={styles.detail}>
+                    {moment(location.timestamp).format("MM-DD-YYYY h:mm:ss")}
+                  </Text>
                 </View>
               </View>
-            </React.Fragment>
-          )}
-        </SafeAreaView>
-      </ScrollView>
-    );
+
+              <View style={styles.row}>
+                <View style={[styles.detailBox, styles.full]}>
+                  <Text style={styles.json}>{JSON.stringify(location)}</Text>
+                </View>
+              </View>
+            </View>
+          </React.Fragment>
+        )}
+
+      </SafeAreaView>
+      {
+        places?.distances && places?.distances.map((loc, i) => {
+          // console.log('distance', loc)
+          return <View key={i} style={{flex: 1, flexDirection: 'row'}}>
+            {loc.icon && <Image
+              style={{width: 20, height: 20}}
+              source={{
+                // uri: 'https://reactnative.dev/img/tiny_logo.png',
+                uri: loc.icon
+              }}
+              // source={{
+              //   uri: loc.icon,
+              // }}
+            />}
+            <Text>{` ${i + 1} . ${loc.name}`}</Text>
+          </View>
+        })
+      }
+    </ScrollView>
+  );
 }
 
 const styles = StyleSheet.create({

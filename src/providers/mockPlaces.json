@@ -1,0 +1,1140 @@
+{
+    "html_attributions" : [],
+    "next_page_token" : "ATplDJYlq5Dj4jCc5ytXGs_ogDVyTLfrA1z59g1MmmBC7Mo6UUBo2c6Pm5GEhUJzkFH5jeKjvdhcUoXJ2O2WtoObtH_mdjDN-EUBNZet9uj3_rzYT39JMquo1GwzB4wk4KHi4g-mAXFvPvrYVPKQegqL6mz-X4fa7fT89ZY2ymLhnpUWFPG8h-d15EAlksjkHK5PfUFOBo2ISU7BxP__hFSIViDW-alr7kRKIuhpYqrLRqViyF9mxcKYyDJM9Kle9hYcOFdFgNHm0V9txoK4Vk3WNhoNeMxr42N8dhDN9YP7rs4e-6mMCXEHMicTqskNNHWOsN8S4ZoYW3OGm3AUsG5sUGh9fESRutw_iI2yNGTx8TfuCuVnSEpLBdmgWFzbi2Nw3yT3nkCm8F2BAikEe_5g4j_xx-gZI8Gz-uC8kv_ZeSdrXm1IC60MYDBXQqRoYWFq0tWJ0RpRhMAbTEbWfSM",
+    "results" : 
+    [
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.383309,
+                "lng" : 78.4010528
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.38495657989272,
+                   "lng" : 78.40454149999999
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.38225692010728,
+                   "lng" : 78.39988990000001
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Golconda Fort",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 2604,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101066000685897329402\"\u003eJithin\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJY4LYBSIQq85lKcbRbY_7JsyFf1fRyff11xskFfYj8RhV4cxszpQEcmbyqfsu9Mqy4tOaknR0q8OB3FrrI_ri7hKPltDdy2kukxEYEV4E9hyJZbz1LkS3kNcWITpmifcx2kFUIl4hc2BcTtf5guEkm-pW9QnNP9e0Q073ubDnfGeyWb",
+                "width" : 4624
+             }
+          ],
+          "place_id" : "ChIJj6mupo6WyzsRWjNa1t_sdms",
+          "plus_code" : 
+          {
+             "compound_code" : "9CM2+8C Hyderabad, Telangana",
+             "global_code" : "7J9W9CM2+8C"
+          },
+          "rating" : 4.4,
+          "reference" : "ChIJj6mupo6WyzsRWjNa1t_sdms",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "tourist_attraction",
+             "landmark",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 123845,
+          "vicinity" : "Khair Complex, Ibrahim Bagh, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.389866,
+                "lng" : 78.394897
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.39128182989272,
+                   "lng" : 78.39583005
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.38858217010728,
+                   "lng" : 78.39275025000001
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#13B5C7",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Golconda Watch Tower",
+          "photos" : 
+          [
+             {
+                "height" : 2448,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115730446032613141153\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJaSF5fT0ItP36zvBYzDi8ajEFUO3wJBJ1xWvMOnP2nlZ7znL3siDXVhf1BsE8NrbZWdTjYzDt6V84mt9r2OSwwMjh8c6qJX9rrK6cbz3LHt1aVRzZwJLe4jOjaDzk7G2fjLAVxVoCdU-qzp1p-touqJhUsPaoqqS9JD_C5oaYoN7Uua",
+                "width" : 3264
+             }
+          ],
+          "place_id" : "ChIJf989SomXyzsRhf9IFn14Eiw",
+          "plus_code" : 
+          {
+             "compound_code" : "99QV+WX Hyderabad, Telangana",
+             "global_code" : "7J9W99QV+WX"
+          },
+          "rating" : 4.6,
+          "reference" : "ChIJf989SomXyzsRhf9IFn14Eiw",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "tourist_attraction",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 27,
+          "vicinity" : "A/510, Fathe darwaza Rd, Mohalla Gunj, Resham Bagh, Golconda Fort, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.4488199,
+                "lng" : 78.35632579999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.45010557989272,
+                   "lng" : 78.35767432989272
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.44740592010728,
+                   "lng" : 78.35497467010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Golconda Chefs",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3024,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101705685125953434869\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJYwyp7qrasVoPMZmnFl7QSsf3t_kOSwfS7lGWhLIyTxL7raoZoxgCw4FdPtn2QTFsiaDg1FEBcWJ192BjUPgqiP9AAJeawef1_eXn4MohmfTdpqOYe1XNKdowfQFvCy36dzefa5igUwNUbl9SBnvHhsh0zop6onwzs37XdZPWGWSH91",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJf9SFm3yTyzsR9_34aq-g9GQ",
+          "plus_code" : 
+          {
+             "compound_code" : "C9X4+GG Gachibowli, Hyderabad, Telangana",
+             "global_code" : "7J9WC9X4+GG"
+          },
+          "price_level" : 2,
+          "rating" : 3.9,
+          "reference" : "ChIJf9SFm3yTyzsR9_34aq-g9GQ",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 2102,
+          "vicinity" : "HIG A-24 & 25, Ground Floor ,Mahadev Complex APHB Colony, opposite DLF Cyber City, Gachibowli"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.385233,
+                "lng" : 78.403443
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.38655887989272,
+                   "lng" : 78.40478972989273
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.38385922010728,
+                   "lng" : 78.40209007010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bus-71.png",
+          "icon_background_color" : "#10BDFF",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bus_share_taxi_pinlet",
+          "name" : "Golconda Bus Station",
+          "photos" : 
+          [
+             {
+                "height" : 2592,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106862378206135915764\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJYTV-T0hAfqiZ-O-zEOgFHnc8hqru0I-TsjHtTiD2zC57YyjjxWkwyAGZ9NgPfqkMHH-0iGiLBPpuknj_F05P708VIqvz-PKS_7PUzFh_XY4H6UEUkYwQbyJFTqEIf6dpKkbwCm0SBKG4uZdkqanJ5g4B9zbElXyoOac_A2zxR40kQ",
+                "width" : 4608
+             }
+          ],
+          "place_id" : "ChIJ17vxUoyWyzsR--PFy5yAt30",
+          "plus_code" : 
+          {
+             "compound_code" : "9CP3+39 Hyderabad, Telangana",
+             "global_code" : "7J9W9CP3+39"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJ17vxUoyWyzsR--PFy5yAt30",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "bus_station",
+             "transit_station",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 33,
+          "vicinity" : "Moti Darwaza Rd, Reti Galli, Golconda Fort, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3803325,
+                "lng" : 78.41024780000001
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.38170827989272,
+                   "lng" : 78.41161187989272
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.37900862010728,
+                   "lng" : 78.40891222010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Golconda Mirchi Dukaan",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3096,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/111638905646461546332\"\u003eMohammed Asif Ahmed\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJaNJuCPvjsC7YE-I4J6-46KTv0wygKZmY8nVBMgR1faP0gjBCCnr1Y8r-3cpqbWVaIY4uTXRZfSh9oQ2MJnoEijZyuhPMxNvY3qhL56nMnPxP9eiofp9iIW9Qt8owe7kPitvbSRrpMT6RK0rg75Cje5xyQi-rImDPK_thEYAIkFqAhY",
+                "width" : 4128
+             }
+          ],
+          "place_id" : "ChIJnbWW6emXyzsR0S8yf1ogkNU",
+          "plus_code" : 
+          {
+             "compound_code" : "9CJ6+43 Hyderabad, Telangana",
+             "global_code" : "7J9W9CJ6+43"
+          },
+          "rating" : 3.8,
+          "reference" : "ChIJnbWW6emXyzsR0S8yf1ogkNU",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 24,
+          "vicinity" : "near by Central Bank, Chota Bazar, Golconda Fort, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3905177,
+                "lng" : 78.38768829999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.39186212989272,
+                   "lng" : 78.38904097989273
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.38916247010728,
+                   "lng" : 78.38634132010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "GOLCONDA HEIGHTS",
+          "photos" : 
+          [
+             {
+                "height" : 4160,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/113563170144425214737\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJaJEgZf2Ac_oyQEC8zLUL7BCXqbDfHDrD4oq_Y-mVq97f1ypm9gEEwQpDaoKmqQbcpunYCH5ZjZqLHQvMY3nVYPk5LqQ58g30bbMylV0sIx_RzAnrDWh8iIyms9rXt04m9K4Y8GWWXbZGxMQUyXoz_rn9nuoihluPrQ3rME6IrB0UpO",
+                "width" : 3120
+             }
+          ],
+          "place_id" : "ChIJdWi2sgmXyzsRCHvmG0EMQE0",
+          "rating" : 5,
+          "reference" : "ChIJdWi2sgmXyzsRCHvmG0EMQE0",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 3,
+          "vicinity" : "99RQ+63F, Baba Colony, Qutub Shahi Tombs, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3806656,
+                "lng" : 78.4096402
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.38203722989272,
+                   "lng" : 78.41100557989272
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.37933757010728,
+                   "lng" : 78.40830592010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Golconda Biryani House",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3120,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109195236821780064902\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJbx5Hp_wX4odY9mtI-I2Ec-66QLgSW25SoqZvCH3TllPiAknnnQfs7_QIM5dPdM60AcWEj9VvhB65y3TlstnvPltH3ObxMZntH8VdNy4Job4Bw8yjm6xcsNCVNf2vme-owwkbU1tCcUZtVwvPkSdgOh2nPxVBSodvpqoA-XCITdZp40",
+                "width" : 4160
+             }
+          ],
+          "place_id" : "ChIJPf4vhRWXyzsR1yI37BGkYHg",
+          "plus_code" : 
+          {
+             "compound_code" : "9CJ5+7V Hyderabad, Telangana",
+             "global_code" : "7J9W9CJ5+7V"
+          },
+          "rating" : 4,
+          "reference" : "ChIJPf4vhRWXyzsR1yI37BGkYHg",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 61,
+          "vicinity" : "Shop No 61, Saleh Nagar, Golconda Fort, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3819216,
+                "lng" : 78.40167649999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.38316567989272,
+                   "lng" : 78.40386199999999
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.38046602010728,
+                   "lng" : 78.40094799999999
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#13B5C7",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Sound & Light Show",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 750,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/117487333068962810410\"\u003eNITHYANANDA NAIK\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJZFiNg3yzT3hxPCzd-d86p6drt0OtK7Rh_sloHfaLywAXCq6MsCwtuncmEwX9Ogb-Ayg7_4BDwsWhKLQLnlhl4JwG4mphNf6B84GaU4eXsTQRtx0duNJBj7PBS9-TgVusOY8kFSPHusvQ2u2oev860a9aklUMPby6XrQ4ZRTfBpHenG",
+                "width" : 1000
+             }
+          ],
+          "place_id" : "ChIJNVsj-YuWyzsRtRwFMRQ7dNM",
+          "plus_code" : 
+          {
+             "compound_code" : "9CJ2+QM Hyderabad, Telangana",
+             "global_code" : "7J9W9CJ2+QM"
+          },
+          "rating" : 3.8,
+          "reference" : "ChIJNVsj-YuWyzsRtRwFMRQ7dNM",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 2234,
+          "vicinity" : "Golkonda Rd, Khair Complex, Golconda Fort, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3835276,
+                "lng" : 78.40414939999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.38491052989272,
+                   "lng" : 78.4055156298927
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.38221087010728,
+                   "lng" : 78.40281597010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Golconda Fish Land",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 1920,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106047848182604951281\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJZQABtiUpAKFfSsrmdWaklfsf2710ghoojsweXTePRqQryQBXwPwWb5_YGHqUCRl5Z26HDUy42Jm06xZ6cAWzgiKyKakvqTmjN12QuXSijDtsRKyH567FetDMW8_wulJWmEOHdrNgv3FyaW_vA9qdlS6LeHn6XkYkveldCgji-XLT32",
+                "width" : 1080
+             }
+          ],
+          "place_id" : "ChIJhWoCioyWyzsRlznY3H_Uoq4",
+          "plus_code" : 
+          {
+             "compound_code" : "9CM3+CM Hyderabad, Telangana",
+             "global_code" : "7J9W9CM3+CM"
+          },
+          "rating" : 2.5,
+          "reference" : "ChIJhWoCioyWyzsRlznY3H_Uoq4",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "meal_takeaway",
+             "restaurant",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 2,
+          "vicinity" : "Golkonda, Khair Complex, Golconda Fort, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3921928,
+                "lng" : 78.4743905
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.39354522989273,
+                   "lng" : 78.47581672989271
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.39084557010728,
+                   "lng" : 78.47311707010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Golconda Homes",
+          "photos" : 
+          [
+             {
+                "height" : 4608,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104997111713653653859\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJaL_-dVsTXsYkz2uckBq9_l3fVcTbIw6wN_rb1UvHRBk_b3Lt3WClseXoIRcqoZqi4ErRhZxj-QfH2RQp9oEyaMJa20C75Z_vsYtM25tHudISIANz_fYT1VFWEObAlf3qfSvc0Yv221u-y3S1PSJLIjYIDJo6AqwnkKansb_adZ3S6W",
+                "width" : 2080
+             }
+          ],
+          "place_id" : "ChIJsaMKTX2XyzsRcomKyXJPpfM",
+          "rating" : 0,
+          "reference" : "ChIJsaMKTX2XyzsRcomKyXJPpfM",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 0,
+          "vicinity" : "9FRF+VQC, Chirag Ali Ln, Brook Bond Colony, Chirag Ali Lane, Abids, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3493904,
+                "lng" : 78.4757209
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.35073997989272,
+                   "lng" : 78.47706947989272
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.34804032010728,
+                   "lng" : 78.47436982010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Golconda Castle",
+          "place_id" : "ChIJcSbZN9yZyzsRWhOSuLjnJVY",
+          "plus_code" : 
+          {
+             "compound_code" : "8FXG+Q7 Hyderabad, Telangana",
+             "global_code" : "7J9W8FXG+Q7"
+          },
+          "rating" : 5,
+          "reference" : "ChIJcSbZN9yZyzsRWhOSuLjnJVY",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 1,
+          "vicinity" : "Golconda Castle, 23-5-882, Lal Darwaza Rd, Murad Mahal, Rajpal Nagar, Lal Darwaza, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3733305,
+                "lng" : 78.47659589999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.37464797989272,
+                   "lng" : 78.47797257989272
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.37194832010728,
+                   "lng" : 78.47527292010729
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Golconda Travels",
+          "opening_hours" : 
+          {
+             "open_now" : true
+          },
+          "photos" : 
+          [
+             {
+                "height" : 1152,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/115421943826789527912\"\u003eSyed Mohammed\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJa97ELBvioDj_5VGc3kEJrUY2LRoBBEH13gX5cHahwEPopiPAGWEV0bLFnuFOj50uw-YsKSSK1mPaYmyn1IKjoAM4cniaSHb2uFzeXh-Jf0wFOcy9KqJjDgsldBPBnTnNRmsw5xfE6Y1KStkrHPDwdArFqsovKcTG9TkwF84bMGzaOp",
+                "width" : 519
+             }
+          ],
+          "place_id" : "ChIJDya2H4SXyzsRaaWHyNCdtbQ",
+          "plus_code" : 
+          {
+             "compound_code" : "9FFG+8J Hyderabad, Telangana",
+             "global_code" : "7J9W9FFG+8J"
+          },
+          "rating" : 3.3,
+          "reference" : "ChIJDya2H4SXyzsRaaWHyNCdtbQ",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "travel_agency",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 25,
+          "vicinity" : "15-5-5, Afzal Gunj, Opposite Bus Stand, Afzal Gunj, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3851018,
+                "lng" : 78.40272419999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.38644987989272,
+                   "lng" : 78.40407212989271
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.38375022010727,
+                   "lng" : 78.40137247010726
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+          "icon_background_color" : "#F88181",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+          "name" : "Area Hospital Golconda",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 3024,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/116162501558024777545\"\u003ePriyaranjan Gupta\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJaKuvnLElTNF6_qRXpSyF4oGoIK5jy9rHUT_pJzslM8WVUfcNtErAYxw0QoC55g0cuMVM3AVXwFRkBmBrlP_vTQs5U_-tLqEouxPsnS_gVDc8b2LH6rOuZy1sRVWLQvnCrob1eFlUUp0_gH-xRFtNJ3LHBYtkOYlhJZuwzwnwk-QuE4",
+                "width" : 4032
+             }
+          ],
+          "place_id" : "ChIJ0ww8NYyWyzsRf3OHpITXfQg",
+          "plus_code" : 
+          {
+             "compound_code" : "9CP3+23 Hyderabad, Telangana",
+             "global_code" : "7J9W9CP3+23"
+          },
+          "rating" : 3,
+          "reference" : "ChIJ0ww8NYyWyzsRf3OHpITXfQg",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "hospital",
+             "point_of_interest",
+             "health",
+             "establishment"
+          ],
+          "user_ratings_total" : 118,
+          "vicinity" : "440, 9-10-440, Fort Rd, Reti Galli, Golconda Fort, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3835297,
+                "lng" : 78.40399029999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.38493702989272,
+                   "lng" : 78.40536407989272
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.38223737010728,
+                   "lng" : 78.40266442010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Golconda Dental & Implant Center",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 2304,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/106434175401549708876\"\u003eGowtham Mac\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJbTjgaVWTAqQ1I8zrZ9LN_YPImSEnnUdih0p_B7cqW9N4lzmq98DGbD7gq_lLKqZDQxY-TXToLHrBxwH3Cs4EM3GGNk4-lU6W-scWHP7n4rBUvHZ_8_PbnKGVq6qG56ywQmlR6vWUtN5g010xOGbp3vpwHFP5ZaSaUbIoEuDVMlKTfl",
+                "width" : 4096
+             }
+          ],
+          "place_id" : "ChIJG4Lch82ZyzsRvQXcbuY1UEA",
+          "plus_code" : 
+          {
+             "compound_code" : "9CM3+CH Hyderabad, Telangana",
+             "global_code" : "7J9W9CM3+CH"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJG4Lch82ZyzsRvQXcbuY1UEA",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "hospital",
+             "point_of_interest",
+             "health",
+             "establishment"
+          ],
+          "user_ratings_total" : 71,
+          "vicinity" : "Bada Bazar Rd, beside MCH office, Bada Bazar, Golconda Fort, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3989022,
+                "lng" : 78.44594049999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.40025257989272,
+                   "lng" : 78.44730197989273
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.39755292010728,
+                   "lng" : 78.44460232010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Golconda Apartments",
+          "photos" : 
+          [
+             {
+                "height" : 2304,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/107060848545770110399\"\u003eA Google User\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJYxUa5CNoZ8QGGvaq1vsFXjPRze3J3InsoiJDt-TcqUd-0fLvo7dcVIM9BvN-8gdHKBMZjHbJ6wYnn7iGZ2ehNbM8V2aBtu0Ib6h-8m_SS7wLaUNQBydxB84j6-8c5ABcCkNajN5KIdGu7Cumz2YgH2q6bDBMxq2ruyncCChQ7euk5g",
+                "width" : 4080
+             }
+          ],
+          "place_id" : "ChIJCYysjxaXyzsRkTUFzIPiY6k",
+          "plus_code" : 
+          {
+             "compound_code" : "9CXW+H9 Hyderabad, Telangana",
+             "global_code" : "7J9W9CXW+H9"
+          },
+          "rating" : 4.3,
+          "reference" : "ChIJCYysjxaXyzsRkTUFzIPiY6k",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 3,
+          "vicinity" : "Masab Tank, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3827656,
+                "lng" : 78.40579579999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.38410207989272,
+                   "lng" : 78.40714797989271
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.38140242010728,
+                   "lng" : 78.40444832010726
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+          "icon_background_color" : "#4B96F3",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+          "name" : "Golconda Foot Wear & Accessories",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "photos" : 
+          [
+             {
+                "height" : 2000,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101408954606281409011\"\u003ehabeeb hussain\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJaQnfJO-Pe03pZkf4zTr3NxWRBaSR1z3F1ScdlkHWZ2me_LxHPnt5VyuKUKTr3DpzL5gqTMd2us4z9y1NysxVJxt0Ng8RW4Njf49qvDrogV28ggsLCbFADJImYAxccWhUmMNbZ2IqLAHSOqVxW8sxPdHz41viXikSWKeneMUwpnwB0O",
+                "width" : 4160
+             }
+          ],
+          "place_id" : "ChIJJZXVVouWyzsRbTeFyVP6h6g",
+          "plus_code" : 
+          {
+             "compound_code" : "9CM4+38 Hyderabad, Telangana",
+             "global_code" : "7J9W9CM4+38"
+          },
+          "rating" : 4.2,
+          "reference" : "ChIJJZXVVouWyzsRbTeFyVP6h6g",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "shoe_store",
+             "point_of_interest",
+             "store",
+             "establishment"
+          ],
+          "user_ratings_total" : 568,
+          "vicinity" : "9-8-209, Bada Bazar Rd, Resham Bagh, Golconda Fort, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3828591,
+                "lng" : 78.4092433
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.38419797989273,
+                   "lng" : 78.41058852989272
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.38149832010728,
+                   "lng" : 78.40788887010727
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_islam-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_islam_pinlet",
+          "name" : "Masjid Islamic Center Golconda",
+          "photos" : 
+          [
+             {
+                "height" : 1080,
+                "html_attributions" : 
+                [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/101748359092947094595\"\u003eNadeem Mohammad\u003c/a\u003e"
+                ],
+                "photo_reference" : "ATplDJZ0SVeIWHsYUIwkYqTe3nIZpuALCVng24k7OBBxltUmgqu7xl1S1UFCuv8roayaFrxrWo5ZonFECXsG-YV_-zYLHku5Z6iFDjn-i-ulgfOKScE_72GQz2nvV-ZeFAryluM0cliTKJBmUFln-azR1v0_QjRhu2HGUOMv-kecchPXOyCt",
+                "width" : 1920
+             }
+          ],
+          "place_id" : "ChIJYROvb7eXyzsRKk0WaEolmw4",
+          "plus_code" : 
+          {
+             "compound_code" : "9CM5+5P Hyderabad, Telangana",
+             "global_code" : "7J9W9CM5+5P"
+          },
+          "rating" : 4.8,
+          "reference" : "ChIJYROvb7eXyzsRKk0WaEolmw4",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "mosque",
+             "place_of_worship",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 11,
+          "vicinity" : "9-11-36/24, Qutub Shahi Colony, Kirti Nagar, Chota Bazar, Golconda Fort, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.4151029,
+                "lng" : 78.49357359999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.41644062989272,
+                   "lng" : 78.49492002989271
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.41374097010728,
+                   "lng" : 78.49222037010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+          "name" : "Golconda Institute",
+          "place_id" : "ChIJ__8LAO2YyzsRSMc_TVtZsFs",
+          "plus_code" : 
+          {
+             "compound_code" : "CF8V+3C Hyderabad, Telangana",
+             "global_code" : "7J9WCF8V+3C"
+          },
+          "rating" : 0,
+          "reference" : "ChIJ__8LAO2YyzsRSMc_TVtZsFs",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 0,
+          "vicinity" : "No 7-6, Vigneswar Enclave, Gandhi Nagar, Kavadiguda, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.383246,
+                "lng" : 78.42180669999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.38453042989272,
+                   "lng" : 78.42314112989271
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.38183077010728,
+                   "lng" : 78.42044147010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+          "icon_background_color" : "#7B9EB0",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+          "name" : "Ge Golconda",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "place_id" : "ChIJ29vhfPmWyzsRNwR-JeRqjlY",
+          "rating" : 4.7,
+          "reference" : "ChIJ29vhfPmWyzsRNwR-JeRqjlY",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 7,
+          "vicinity" : "9CMC+8P3, Langar House Rd, Langar Houz, Hyderabad"
+       },
+       {
+          "business_status" : "OPERATIONAL",
+          "geometry" : 
+          {
+             "location" : 
+             {
+                "lat" : 17.3782268,
+                "lng" : 78.41233369999999
+             },
+             "viewport" : 
+             {
+                "northeast" : 
+                {
+                   "lat" : 17.37957952989272,
+                   "lng" : 78.41368347989271
+                },
+                "southwest" : 
+                {
+                   "lat" : 17.37687987010728,
+                   "lng" : 78.41098382010728
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+          "icon_background_color" : "#FF9E67",
+          "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+          "name" : "Golconda Tiffin Center",
+          "opening_hours" : 
+          {
+             "open_now" : false
+          },
+          "place_id" : "ChIJg6RT4fWWyzsR2-Rrv4puhrg",
+          "plus_code" : 
+          {
+             "compound_code" : "9CH6+7W Hyderabad, Telangana",
+             "global_code" : "7J9W9CH6+7W"
+          },
+          "rating" : 3.3,
+          "reference" : "ChIJg6RT4fWWyzsR2-Rrv4puhrg",
+          "scope" : "GOOGLE",
+          "types" : 
+          [
+             "restaurant",
+             "meal_takeaway",
+             "food",
+             "point_of_interest",
+             "establishment"
+          ],
+          "user_ratings_total" : 3,
+          "vicinity" : "9, 8-83/2/A, 9, Dhankota, Saleh Nagar, Golconda Fort, Hyderabad"
+       }
+    ],
+    "status" : "OK"
+ }
