@@ -39,7 +39,7 @@ export default function (props) {
     const [locationList, updateLocationList] = useState([])
     const [location, setLocation] = useState(null)
     const [couter, setCounter] = useState(0)
-    const [places, setPlaces] = useState({cords: []})
+    const [places, setPlaces] = useState({cords: [], shortDistnce: {}})
 
     const fetchPlaceNearBy =  (locationData) => {
       // try {
@@ -47,7 +47,7 @@ export default function (props) {
       //   const {latitude, longitude} = locationData
       //   const keyword = 'golconda'
       //   // const API_KEY = ''
-      //   const  API_KEY = 'AIzaSyDBVDHD3_MoDX0K_J3F7hPxmrMmgedmQ6A'
+      //   const  API_KEY = ''
       //   const lat = 17.383619698271566
       //   const lng = 78.39940439021058
       //   const url = `https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=${lat},${lng}&radius=10000&type=point_of_interest&keyword=${keyword}&key=${API_KEY}`
